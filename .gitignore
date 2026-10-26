@@ -1,0 +1,15 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+# OS metadata
+.DS_Store
+._*
+# Local experiment runs
+runs/

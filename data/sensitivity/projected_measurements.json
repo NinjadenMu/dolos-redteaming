@@ -1,0 +1,170 @@
+[
+  {
+    "label": "API_KEY",
+    "task_id": 0,
+    "rank": 0,
+    "js": 0.4697837233543396,
+    "entropy": 2.1360435485839844
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 0,
+    "rank": 16,
+    "js": 0.0007831484545022249,
+    "entropy": 1.5132172107696533
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 1,
+    "rank": 0,
+    "js": 0.5021294355392456,
+    "entropy": 0.5658146142959595
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 1,
+    "rank": 16,
+    "js": 0.00037191028241068125,
+    "entropy": 0.3394450843334198
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 2,
+    "rank": 0,
+    "js": 0.4286186397075653,
+    "entropy": 0.7378784418106079
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 2,
+    "rank": 16,
+    "js": 4.592705226968974e-05,
+    "entropy": 0.17082402110099792
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 3,
+    "rank": 0,
+    "js": 0.3272949457168579,
+    "entropy": 0.6817449927330017
+  },
+  {
+    "label": "API_KEY",
+    "task_id": 3,
+    "rank": 16,
+    "js": 1.6455142031190917e-05,
+    "entropy": 0.06296486407518387
+  },
+  {
+    "label": "password",
+    "task_id": 0,
+    "rank": 0,
+    "js": 0.4611811935901642,
+    "entropy": 2.07222056388855
+  },
+  {
+    "label": "password",
+    "task_id": 0,
+    "rank": 16,
+    "js": 0.0005141557194292545,
+    "entropy": 1.4309476613998413
+  },
+  {
+    "label": "password",
+    "task_id": 1,
+    "rank": 0,
+    "js": 0.5163112878799438,
+    "entropy": 0.5802540183067322
+  },
+  {
+    "label": "password",
+    "task_id": 1,
+    "rank": 16,
+    "js": 0.00017515095532871783,
+    "entropy": 0.4057738482952118
+  },
+  {
+    "label": "password",
+    "task_id": 2,
+    "rank": 0,
+    "js": 0.4206133186817169,
+    "entropy": 0.7450795769691467
+  },
+  {
+    "label": "password",
+    "task_id": 2,
+    "rank": 16,
+    "js": 4.3436837586341426e-05,
+    "entropy": 0.1676635891199112
+  },
+  {
+    "label": "password",
+    "task_id": 3,
+    "rank": 0,
+    "js": 0.29919248819351196,
+    "entropy": 0.6591188311576843
+  },
+  {
+    "label": "password",
+    "task_id": 3,
+    "rank": 16,
+    "js": 1.9470944607746787e-05,
+    "entropy": 0.060009002685546875
+  },
+  {
+    "label": "access_token",
+    "task_id": 0,
+    "rank": 0,
+    "js": 0.46147263050079346,
+    "entropy": 2.097123384475708
+  },
+  {
+    "label": "access_token",
+    "task_id": 0,
+    "rank": 16,
+    "js": 0.000643092324025929,
+    "entropy": 1.4497562646865845
+  },
+  {
+    "label": "access_token",
+    "task_id": 1,
+    "rank": 0,
+    "js": 0.4987266957759857,
+    "entropy": 0.5452063679695129
+  },
+  {
+    "label": "access_token",
+    "task_id": 1,
+    "rank": 16,
+    "js": 0.0002331393479835242,
+    "entropy": 0.344473659992218
+  },
+  {
+    "label": "access_token",
+    "task_id": 2,
+    "rank": 0,
+    "js": 0.4180908799171448,
+    "entropy": 0.731576681137085
+  },
+  {
+    "label": "access_token",
+    "task_id": 2,
+    "rank": 16,
+    "js": 3.632650259532966e-05,
+    "entropy": 0.1569698005914688
+  },
+  {
+    "label": "access_token",
+    "task_id": 3,
+    "rank": 0,
+    "js": 0.3025609850883484,
+    "entropy": 0.6449409127235413
+  },
+  {
+    "label": "access_token",
+    "task_id": 3,
+    "rank": 16,
+    "js": 1.563328260090202e-05,
+    "entropy": 0.057059451937675476
+  }
+]

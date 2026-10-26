@@ -1,0 +1,2486 @@
+[
+  {
+    "domain": "arithmetic",
+    "task": "Compute 17 + 5. Reply with only the number.",
+    "answer": "22",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "22"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 + 4. Reply with only the number.",
+    "answer": "9",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "9"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 33 + 5. Reply with only the number.",
+    "answer": "38",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "38"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 + 3. Reply with only the number.",
+    "answer": "26",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "26"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 24 + 8. Reply with only the number.",
+    "answer": "32",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 27 + 13. Reply with only the number.",
+    "answer": "40",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "40"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 26 + 6. Reply with only the number.",
+    "answer": "32",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 + 6. Reply with only the number.",
+    "answer": "14",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "14"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 12 + 11. Reply with only the number.",
+    "answer": "23",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "23"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 13 + 2. Reply with only the number.",
+    "answer": "15",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "15"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 28 + 12. Reply with only the number.",
+    "answer": "40",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "40"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 6 + 6. Reply with only the number.",
+    "answer": "12",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "12"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 * 6. Reply with only the number.",
+    "answer": "30",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "30"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "216"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 29 * 8. Reply with only the number.",
+    "answer": "232",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "232"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 19 * 9. Reply with only the number.",
+    "answer": "171",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "171"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "216"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 16 * 11. Reply with only the number.",
+    "answer": "176",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "176"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 * 2. Reply with only the number.",
+    "answer": "46",
+    "condition": "unmodified",
+    "correct": false,
+    "output": "50"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 * 4. Reply with only the number.",
+    "answer": "32",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 6. Reply with only the number.",
+    "answer": "108",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "108"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 2 * 7. Reply with only the number.",
+    "answer": "14",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "14"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 10 * 13. Reply with only the number.",
+    "answer": "130",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "130"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 22 * 4. Reply with only the number.",
+    "answer": "88",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "88"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=green, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=orange, Cedar=white, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=white, Cedar=orange, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=black, Dahlia=orange. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=yellow, Cedar=green, Dahlia=white. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=yellow, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=red, Cedar=green, Dahlia=black. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=green, Cedar=blue, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=purple, Cedar=green, Dahlia=orange. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "green",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "green"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "purple"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=blue, Cedar=black, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=black, Cedar=orange, Dahlia=red. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=black, Cedar=yellow, Dahlia=purple. What color is assigned to Birch? Reply with only the color.",
+    "answer": "black",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=white, Cedar=purple, Dahlia=yellow. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=blue, Birch=red, Cedar=orange, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "blue",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "blue"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=yellow, Cedar=orange, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=red, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "red",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "red",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=purple, Cedar=blue, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=white, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=blue, Cedar=purple, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "purple"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: SUJCBMAWRV",
+    "answer": "SUJCBMAWRV",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "SUJCBMAWRV"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NZWLACXHUA",
+    "answer": "NZWLACXHUA",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NZWLACXHUA"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YZNLEE83S8",
+    "answer": "YZNLEE83S8",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "YZNLEE83S8"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NSX5MNPANC",
+    "answer": "NSX5MNPANC",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NSX5MNPANC"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YH6MZGX7AH",
+    "answer": "YH6MZGX7AH",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "YH6MZGX7AH"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: F8929Q63U7",
+    "answer": "F8929Q63U7",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "F8929Q63U7"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: KRQ5BP5UE5",
+    "answer": "KRQ5BP5UE5",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "KRQ5BP5UE5"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: R8YDT76NF2",
+    "answer": "R8YDT76NF2",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "R8YDT76NF2"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: CYHTQSCES9",
+    "answer": "CYHTQSCES9",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "CYHTQSCES9"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: QM59FYY4NN",
+    "answer": "QM59FYY4NN",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "QM59FYY4NN"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3C9DKDAXQN",
+    "answer": "3C9DKDAXQN",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "3C9DKDAXQN"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 8ZPM2HKK6Q",
+    "answer": "8ZPM2HKK6Q",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "8ZPM2HKK6Q"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: FZ4Y4DRG4P",
+    "answer": "FZ4Y4DRG4P",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "FZ4Y4DRG4P"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: UN2D6QWVMU",
+    "answer": "UN2D6QWVMU",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "UN2D6QWVMU"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: REQGS837BY",
+    "answer": "REQGS837BY",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "REQGS837BY"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: M5944H53PP",
+    "answer": "M5944H53PP",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "M5944H53PP"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 9C5KERXPXW",
+    "answer": "9C5KERXPXW",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "9C5KERXPXW"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: A6FJ6GEFWM",
+    "answer": "A6FJ6GEFWM",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "A6FJ6GEFWM"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: B8WQTLM732",
+    "answer": "B8WQTLM732",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "B8WQTLM732"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: JB9F8ZQESM",
+    "answer": "JB9F8ZQESM",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "JB9F8ZQESM"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: TZQCMB5LNA",
+    "answer": "TZQCMB5LNA",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "TZQCMB5LNA"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ELL3AN6QVC",
+    "answer": "ELL3AN6QVC",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "ELL3AN6QVC"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3KWNGWAUSF",
+    "answer": "3KWNGWAUSF",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "3KWNGWAUSF"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ZBR4CCJMLV",
+    "answer": "ZBR4CCJMLV",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "ZBR4CCJMLV"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [14, 5, 17, 10]",
+    "answer": [
+      5,
+      10,
+      14,
+      17
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 10, 14, 17]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [1, 12, 8, 13]",
+    "answer": [
+      1,
+      8,
+      12,
+      13
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[1, 8, 12, 13]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 28, 9, 1]",
+    "answer": [
+      1,
+      9,
+      18,
+      28
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[1, 9, 18, 28]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 3, 4, 27]",
+    "answer": [
+      3,
+      4,
+      9,
+      27
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[27, 3, 4, 9]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 22, 16, 27]",
+    "answer": [
+      16,
+      22,
+      24,
+      27
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[16, 22, 24, 27]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [21, 7, 10, 17]",
+    "answer": [
+      7,
+      10,
+      17,
+      21
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 17, 21]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [17, 3, 28, 24]",
+    "answer": [
+      3,
+      17,
+      24,
+      28
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[3, 17, 24, 28]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [15, 10, 7, 20]",
+    "answer": [
+      7,
+      10,
+      15,
+      20
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 15, 20]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 22, 14, 5]",
+    "answer": [
+      5,
+      9,
+      14,
+      22
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 9, 14, 22]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 21, 29, 2]",
+    "answer": [
+      2,
+      21,
+      24,
+      29
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[2, 21, 24, 29]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 29, 13, 6]",
+    "answer": [
+      6,
+      13,
+      18,
+      29
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[6, 13, 18, 29]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [10, 12, 27, 18]",
+    "answer": [
+      10,
+      12,
+      18,
+      27
+    ],
+    "condition": "unmodified",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[10, 12, 18, 27]\n```"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 2 larger than 5? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 14 larger than 35? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 4 larger than 82? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 13 larger than 51? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 85 larger than 10? Reply only YES or NO.",
+    "answer": "YES",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "YES"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 59 larger than 70? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 77 larger than 79? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 95 larger than 44? Reply only YES or NO.",
+    "answer": "YES",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "YES"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 64 larger than 98? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 19 larger than 78? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 61 larger than 90? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 69 larger than 94? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "unmodified",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 17 + 5. Reply with only the number.",
+    "answer": "22",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "22"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 + 4. Reply with only the number.",
+    "answer": "9",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "9"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 33 + 5. Reply with only the number.",
+    "answer": "38",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "38"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 + 3. Reply with only the number.",
+    "answer": "26",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "26"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 24 + 8. Reply with only the number.",
+    "answer": "32",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 27 + 13. Reply with only the number.",
+    "answer": "40",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "40"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 26 + 6. Reply with only the number.",
+    "answer": "32",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 + 6. Reply with only the number.",
+    "answer": "14",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "14"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 12 + 11. Reply with only the number.",
+    "answer": "23",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "23"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 13 + 2. Reply with only the number.",
+    "answer": "15",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "15"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 28 + 12. Reply with only the number.",
+    "answer": "40",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "40"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 6 + 6. Reply with only the number.",
+    "answer": "12",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "12"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 * 6. Reply with only the number.",
+    "answer": "30",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "30"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "216"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 29 * 8. Reply with only the number.",
+    "answer": "232",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "232"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 19 * 9. Reply with only the number.",
+    "answer": "171",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "171"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "216"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 16 * 11. Reply with only the number.",
+    "answer": "176",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "176"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 * 2. Reply with only the number.",
+    "answer": "46",
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "50"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 * 4. Reply with only the number.",
+    "answer": "32",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "32"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 6. Reply with only the number.",
+    "answer": "108",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "108"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 2 * 7. Reply with only the number.",
+    "answer": "14",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "14"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 10 * 13. Reply with only the number.",
+    "answer": "130",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "130"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 22 * 4. Reply with only the number.",
+    "answer": "88",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "88"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=green, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=orange, Cedar=white, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=white, Cedar=orange, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=black, Dahlia=orange. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=yellow, Cedar=green, Dahlia=white. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=yellow, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=red, Cedar=green, Dahlia=black. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=green, Cedar=blue, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=purple, Cedar=green, Dahlia=orange. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "green",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "green"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "purple"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "yellow"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=blue, Cedar=black, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=black, Cedar=orange, Dahlia=red. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=black, Cedar=yellow, Dahlia=purple. What color is assigned to Birch? Reply with only the color.",
+    "answer": "black",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=white, Cedar=purple, Dahlia=yellow. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=blue, Birch=red, Cedar=orange, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "blue",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "blue"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=yellow, Cedar=orange, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "black"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=red, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "red",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "red",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "red"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=purple, Cedar=blue, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=white, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "orange"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=blue, Cedar=purple, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "purple"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "white"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: SUJCBMAWRV",
+    "answer": "SUJCBMAWRV",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "SUJCBMAWRV"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NZWLACXHUA",
+    "answer": "NZWLACXHUA",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NZWLACXHUA"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YZNLEE83S8",
+    "answer": "YZNLEE83S8",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "YZNLEE83S8"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NSX5MNPANC",
+    "answer": "NSX5MNPANC",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NSX5MNPANC"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YH6MZGX7AH",
+    "answer": "YH6MZGX7AH",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "YH6MZGX7AH"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: F8929Q63U7",
+    "answer": "F8929Q63U7",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "F8929Q63U7"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: KRQ5BP5UE5",
+    "answer": "KRQ5BP5UE5",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "KRQ5BP5UE5"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: R8YDT76NF2",
+    "answer": "R8YDT76NF2",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "R8YDT76NF2"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: CYHTQSCES9",
+    "answer": "CYHTQSCES9",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "CYHTQSCES9"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: QM59FYY4NN",
+    "answer": "QM59FYY4NN",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "QM59FYY4NN"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3C9DKDAXQN",
+    "answer": "3C9DKDAXQN",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "3C9DKDAXQN"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 8ZPM2HKK6Q",
+    "answer": "8ZPM2HKK6Q",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "8ZPM2HKK6Q"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: FZ4Y4DRG4P",
+    "answer": "FZ4Y4DRG4P",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "FZ4Y4DRG4P"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: UN2D6QWVMU",
+    "answer": "UN2D6QWVMU",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "UN2D6QWVMU"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: REQGS837BY",
+    "answer": "REQGS837BY",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "REQGS837BY"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: M5944H53PP",
+    "answer": "M5944H53PP",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "M5944H53PP"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 9C5KERXPXW",
+    "answer": "9C5KERXPXW",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "9C5KERXPXW"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: A6FJ6GEFWM",
+    "answer": "A6FJ6GEFWM",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "A6FJ6GEFWM"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: B8WQTLM732",
+    "answer": "B8WQTLM732",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "B8WQTLM732"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: JB9F8ZQESM",
+    "answer": "JB9F8ZQESM",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "JB9F8ZQESM"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: TZQCMB5LNA",
+    "answer": "TZQCMB5LNA",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "TZQCMB5LNA"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ELL3AN6QVC",
+    "answer": "ELL3AN6QVC",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "ELL3AN6QVC"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3KWNGWAUSF",
+    "answer": "3KWNGWAUSF",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "3KWNGWAUSF"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ZBR4CCJMLV",
+    "answer": "ZBR4CCJMLV",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "ZBR4CCJMLV"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [14, 5, 17, 10]",
+    "answer": [
+      5,
+      10,
+      14,
+      17
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 10, 14, 17]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [1, 12, 8, 13]",
+    "answer": [
+      1,
+      8,
+      12,
+      13
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[1, 8, 12, 13]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 28, 9, 1]",
+    "answer": [
+      1,
+      9,
+      18,
+      28
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[1, 9, 18, 28]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 3, 4, 27]",
+    "answer": [
+      3,
+      4,
+      9,
+      27
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[27, 3, 4, 9]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 22, 16, 27]",
+    "answer": [
+      16,
+      22,
+      24,
+      27
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```\n[16, 22, 24, 27]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [21, 7, 10, 17]",
+    "answer": [
+      7,
+      10,
+      17,
+      21
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 17, 21]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [17, 3, 28, 24]",
+    "answer": [
+      3,
+      17,
+      24,
+      28
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[3, 17, 24, 28]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [15, 10, 7, 20]",
+    "answer": [
+      7,
+      10,
+      15,
+      20
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 15, 20]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 22, 14, 5]",
+    "answer": [
+      5,
+      9,
+      14,
+      22
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 9, 14, 22]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 21, 29, 2]",
+    "answer": [
+      2,
+      21,
+      24,
+      29
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[2, 21, 24, 29]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 29, 13, 6]",
+    "answer": [
+      6,
+      13,
+      18,
+      29
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[6, 13, 18, 29]\n```"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [10, 12, 27, 18]",
+    "answer": [
+      10,
+      12,
+      18,
+      27
+    ],
+    "condition": "decimal_rank8",
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[10, 12, 18, 27]\n```"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 2 larger than 5? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 14 larger than 35? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 4 larger than 82? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 13 larger than 51? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 85 larger than 10? Reply only YES or NO.",
+    "answer": "YES",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "YES"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 59 larger than 70? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 77 larger than 79? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 95 larger than 44? Reply only YES or NO.",
+    "answer": "YES",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "YES"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 64 larger than 98? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 19 larger than 78? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 61 larger than 90? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 69 larger than 94? Reply only YES or NO.",
+    "answer": "NO",
+    "condition": "decimal_rank8",
+    "correct": true,
+    "output": "NO"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 17 + 5. Reply with only the number.",
+    "answer": "22",
+    "correct": true,
+    "output": "22",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 + 4. Reply with only the number.",
+    "answer": "9",
+    "correct": true,
+    "output": "9",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 33 + 5. Reply with only the number.",
+    "answer": "38",
+    "correct": true,
+    "output": "38",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 + 3. Reply with only the number.",
+    "answer": "26",
+    "correct": true,
+    "output": "26",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 24 + 8. Reply with only the number.",
+    "answer": "32",
+    "correct": true,
+    "output": "32",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 27 + 13. Reply with only the number.",
+    "answer": "40",
+    "correct": true,
+    "output": "40",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 26 + 6. Reply with only the number.",
+    "answer": "32",
+    "correct": true,
+    "output": "32",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 + 6. Reply with only the number.",
+    "answer": "14",
+    "correct": true,
+    "output": "14",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 12 + 11. Reply with only the number.",
+    "answer": "23",
+    "correct": true,
+    "output": "23",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 13 + 2. Reply with only the number.",
+    "answer": "15",
+    "correct": true,
+    "output": "15",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 28 + 12. Reply with only the number.",
+    "answer": "40",
+    "correct": true,
+    "output": "40",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 6 + 6. Reply with only the number.",
+    "answer": "12",
+    "correct": true,
+    "output": "12",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 5 * 6. Reply with only the number.",
+    "answer": "30",
+    "correct": true,
+    "output": "30",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "correct": true,
+    "output": "216",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 29 * 8. Reply with only the number.",
+    "answer": "232",
+    "correct": true,
+    "output": "232",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 19 * 9. Reply with only the number.",
+    "answer": "171",
+    "correct": true,
+    "output": "171",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 12. Reply with only the number.",
+    "answer": "216",
+    "correct": true,
+    "output": "216",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 16 * 11. Reply with only the number.",
+    "answer": "176",
+    "correct": true,
+    "output": "176",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 23 * 2. Reply with only the number.",
+    "answer": "46",
+    "correct": false,
+    "output": "50",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 8 * 4. Reply with only the number.",
+    "answer": "32",
+    "correct": true,
+    "output": "32",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 18 * 6. Reply with only the number.",
+    "answer": "108",
+    "correct": true,
+    "output": "108",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 2 * 7. Reply with only the number.",
+    "answer": "14",
+    "correct": true,
+    "output": "14",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 10 * 13. Reply with only the number.",
+    "answer": "130",
+    "correct": true,
+    "output": "130",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "arithmetic",
+    "task": "Compute 22 * 4. Reply with only the number.",
+    "answer": "88",
+    "correct": true,
+    "output": "88",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=green, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "correct": true,
+    "output": "white",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=orange, Cedar=white, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "correct": true,
+    "output": "yellow",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=white, Cedar=orange, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "correct": true,
+    "output": "orange",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=yellow, Cedar=black, Dahlia=orange. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "correct": true,
+    "output": "yellow",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=yellow, Cedar=green, Dahlia=white. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "correct": true,
+    "output": "red",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=yellow, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "yellow",
+    "correct": true,
+    "output": "yellow",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=red, Cedar=green, Dahlia=black. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "correct": true,
+    "output": "yellow",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=green, Cedar=blue, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "correct": true,
+    "output": "black",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=purple, Cedar=green, Dahlia=orange. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "green",
+    "correct": true,
+    "output": "green",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=red. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "correct": true,
+    "output": "purple",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=yellow, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "yellow",
+    "correct": true,
+    "output": "yellow",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=blue, Cedar=black, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "correct": true,
+    "output": "orange",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=black, Cedar=orange, Dahlia=red. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "orange",
+    "correct": true,
+    "output": "orange",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=black, Cedar=yellow, Dahlia=purple. What color is assigned to Birch? Reply with only the color.",
+    "answer": "black",
+    "correct": true,
+    "output": "black",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=red, Birch=white, Cedar=purple, Dahlia=yellow. What color is assigned to Aster? Reply with only the color.",
+    "answer": "red",
+    "correct": true,
+    "output": "red",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=blue, Birch=red, Cedar=orange, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "blue",
+    "correct": true,
+    "output": "blue",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=yellow, Cedar=orange, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "black",
+    "correct": true,
+    "output": "black",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=green, Birch=red, Cedar=black, Dahlia=blue. What color is assigned to Birch? Reply with only the color.",
+    "answer": "red",
+    "correct": true,
+    "output": "red",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=green. What color is assigned to Cedar? Reply with only the color.",
+    "answer": "red",
+    "correct": true,
+    "output": "red",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=purple, Cedar=blue, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "correct": true,
+    "output": "white",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=orange, Birch=white, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "orange",
+    "correct": true,
+    "output": "orange",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=black, Birch=blue, Cedar=purple, Dahlia=white. What color is assigned to Dahlia? Reply with only the color.",
+    "answer": "white",
+    "correct": true,
+    "output": "white",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=purple, Birch=blue, Cedar=yellow, Dahlia=green. What color is assigned to Aster? Reply with only the color.",
+    "answer": "purple",
+    "correct": true,
+    "output": "purple",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "lookup",
+    "task": "Records: Aster=white, Birch=blue, Cedar=red, Dahlia=purple. What color is assigned to Aster? Reply with only the color.",
+    "answer": "white",
+    "correct": true,
+    "output": "white",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: SUJCBMAWRV",
+    "answer": "SUJCBMAWRV",
+    "correct": true,
+    "output": "SUJCBMAWRV",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NZWLACXHUA",
+    "answer": "NZWLACXHUA",
+    "correct": true,
+    "output": "NZWLACXHUA",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YZNLEE83S8",
+    "answer": "YZNLEE83S8",
+    "correct": true,
+    "output": "YZNLEE83S8",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: NSX5MNPANC",
+    "answer": "NSX5MNPANC",
+    "correct": true,
+    "output": "NSX5MNPANC",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: YH6MZGX7AH",
+    "answer": "YH6MZGX7AH",
+    "correct": true,
+    "output": "YH6MZGX7AH",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: F8929Q63U7",
+    "answer": "F8929Q63U7",
+    "correct": true,
+    "output": "F8929Q63U7",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: KRQ5BP5UE5",
+    "answer": "KRQ5BP5UE5",
+    "correct": true,
+    "output": "KRQ5BP5UE5",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: R8YDT76NF2",
+    "answer": "R8YDT76NF2",
+    "correct": true,
+    "output": "R8YDT76NF2",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: CYHTQSCES9",
+    "answer": "CYHTQSCES9",
+    "correct": true,
+    "output": "CYHTQSCES9",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: QM59FYY4NN",
+    "answer": "QM59FYY4NN",
+    "correct": true,
+    "output": "QM59FYY4NN",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3C9DKDAXQN",
+    "answer": "3C9DKDAXQN",
+    "correct": true,
+    "output": "3C9DKDAXQN",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 8ZPM2HKK6Q",
+    "answer": "8ZPM2HKK6Q",
+    "correct": true,
+    "output": "8ZPM2HKK6Q",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: FZ4Y4DRG4P",
+    "answer": "FZ4Y4DRG4P",
+    "correct": true,
+    "output": "FZ4Y4DRG4P",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: UN2D6QWVMU",
+    "answer": "UN2D6QWVMU",
+    "correct": true,
+    "output": "UN2D6QWVMU",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: REQGS837BY",
+    "answer": "REQGS837BY",
+    "correct": true,
+    "output": "REQGS837BY",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: M5944H53PP",
+    "answer": "M5944H53PP",
+    "correct": true,
+    "output": "M5944H53PP",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 9C5KERXPXW",
+    "answer": "9C5KERXPXW",
+    "correct": true,
+    "output": "9C5KERXPXW",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: A6FJ6GEFWM",
+    "answer": "A6FJ6GEFWM",
+    "correct": true,
+    "output": "A6FJ6GEFWM",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: B8WQTLM732",
+    "answer": "B8WQTLM732",
+    "correct": true,
+    "output": "B8WQTLM732",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: JB9F8ZQESM",
+    "answer": "JB9F8ZQESM",
+    "correct": true,
+    "output": "JB9F8ZQESM",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: TZQCMB5LNA",
+    "answer": "TZQCMB5LNA",
+    "correct": true,
+    "output": "TZQCMB5LNA",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ELL3AN6QVC",
+    "answer": "ELL3AN6QVC",
+    "correct": true,
+    "output": "ELL3AN6QVC",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: 3KWNGWAUSF",
+    "answer": "3KWNGWAUSF",
+    "correct": true,
+    "output": "3KWNGWAUSF",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "copy",
+    "task": "Copy this string exactly and output nothing else: ZBR4CCJMLV",
+    "answer": "ZBR4CCJMLV",
+    "correct": true,
+    "output": "ZBR4CCJMLV",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [14, 5, 17, 10]",
+    "answer": [
+      5,
+      10,
+      14,
+      17
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 10, 14, 17]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [1, 12, 8, 13]",
+    "answer": [
+      1,
+      8,
+      12,
+      13
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[1, 8, 12, 13]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 28, 9, 1]",
+    "answer": [
+      1,
+      9,
+      18,
+      28
+    ],
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[1, 9, 18, 28]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 3, 4, 27]",
+    "answer": [
+      3,
+      4,
+      9,
+      27
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[27, 3, 4, 9]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 22, 16, 27]",
+    "answer": [
+      16,
+      22,
+      24,
+      27
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[16, 22, 24, 27]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [21, 7, 10, 17]",
+    "answer": [
+      7,
+      10,
+      17,
+      21
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 17, 21]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [17, 3, 28, 24]",
+    "answer": [
+      3,
+      17,
+      24,
+      28
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[3, 17, 24, 28]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [15, 10, 7, 20]",
+    "answer": [
+      7,
+      10,
+      15,
+      20
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[7, 10, 15, 20]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [9, 22, 14, 5]",
+    "answer": [
+      5,
+      9,
+      14,
+      22
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[5, 9, 14, 22]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [24, 21, 29, 2]",
+    "answer": [
+      2,
+      21,
+      24,
+      29
+    ],
+    "correct": false,
+    "output": "Here is the sorted list in JSON format:\n```json\n[2, 21, 24, 29]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [18, 29, 13, 6]",
+    "answer": [
+      6,
+      13,
+      18,
+      29
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[6, 13, 18, 29]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "sort",
+    "task": "Sort these numbers in ascending order and output only a JSON array: [10, 12, 27, 18]",
+    "answer": [
+      10,
+      12,
+      18,
+      27
+    ],
+    "correct": false,
+    "output": "Here is the sorted array in JSON format:\n```json\n[10, 12, 18, 27]\n```",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 2 larger than 5? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 14 larger than 35? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 4 larger than 82? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 13 larger than 51? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 85 larger than 10? Reply only YES or NO.",
+    "answer": "YES",
+    "correct": true,
+    "output": "YES",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 59 larger than 70? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 77 larger than 79? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 95 larger than 44? Reply only YES or NO.",
+    "answer": "YES",
+    "correct": true,
+    "output": "YES",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 64 larger than 98? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 19 larger than 78? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 61 larger than 90? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  },
+  {
+    "domain": "comparison",
+    "task": "Is 69 larger than 94? Reply only YES or NO.",
+    "answer": "NO",
+    "correct": true,
+    "output": "NO",
+    "condition": "hexadecimal_rank16"
+  }
+]

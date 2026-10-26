@@ -1,0 +1,11 @@
+{
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-7.0.0-30-generic-x86_64-with-glibc2.39",
+  "torch": "2.14.1+cu130",
+  "transformers": "5.20.2",
+  "gpu": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+  "gpu_memory_bytes": 101970345984,
+  "dolos_revision": "63e7031a0535a49f86e08af4e7bdc45cfa22fe6d",
+  "qwen_revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+  "custom_hooks": []
+}

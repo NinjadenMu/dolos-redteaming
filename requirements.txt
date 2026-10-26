@@ -1,0 +1,7 @@
+# Versions used to validate this release. Install a CUDA-enabled PyTorch build for model experiments.
+torch==2.14.1
+transformers==5.20.2
+numpy==2.5.4
+matplotlib==3.11.2
+huggingface-hub==2.3.0
+safetensors==0.8.0

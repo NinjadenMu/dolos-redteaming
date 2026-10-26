@@ -1,0 +1,44 @@
+[
+  {
+    "role": "system",
+    "preceding": "none",
+    "model": "dolos",
+    "js": 0.4758486747741699,
+    "entropy": 0.6915420889854431
+  },
+  {
+    "role": "system",
+    "preceding": "none",
+    "model": "qwen",
+    "js": 0.00011117054964415729,
+    "entropy": 0.44675347208976746
+  },
+  {
+    "role": "system",
+    "preceding": "system",
+    "model": "dolos",
+    "js": 0.00024666270473971963,
+    "entropy": 0.4192984700202942
+  },
+  {
+    "role": "system",
+    "preceding": "system",
+    "model": "qwen",
+    "js": 0.00010404495697002858,
+    "entropy": 0.2818250060081482
+  },
+  {
+    "role": "system",
+    "preceding": "user",
+    "model": "dolos",
+    "js": 0.010421644896268845,
+    "entropy": 0.37581369280815125
+  },
+  {
+    "role": "system",
+    "preceding": "user",
+    "model": "qwen",
+    "js": 0.00015205003728624433,
+    "entropy": 0.3210514187812805
+  }
+]

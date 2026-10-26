@@ -1,0 +1,134 @@
+[
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 0,
+    "rank": 0,
+    "js": 1.416869878768921
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 0,
+    "rank": 16,
+    "js": 0.0005563899176195264
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 1,
+    "rank": 0,
+    "js": 1.193880319595337
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 1,
+    "rank": 16,
+    "js": 0.001041829353198409
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 5,
+    "rank": 0,
+    "js": 1.3818336725234985
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 5,
+    "rank": 16,
+    "js": 0.0010483874939382076
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 11,
+    "rank": 0,
+    "js": 0.02211722917854786
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 11,
+    "rank": 16,
+    "js": 0.0010590049205347896
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 23,
+    "rank": 0,
+    "js": 0.8605072498321533
+  },
+  {
+    "task": "Write a detailed 1200-word essay about oceans and marine life.",
+    "slot": 23,
+    "rank": 16,
+    "js": 9.152376878773794e-05
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 0,
+    "rank": 0,
+    "js": 0.9351179599761963
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 0,
+    "rank": 16,
+    "js": 0.0020178649574518204
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 1,
+    "rank": 0,
+    "js": 0.47145897150039673
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 1,
+    "rank": 16,
+    "js": 0.0001169716488220729
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 5,
+    "rank": 0,
+    "js": 0.6672631502151489
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 5,
+    "rank": 16,
+    "js": 0.0003266416024416685
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 11,
+    "rank": 0,
+    "js": 6.45597083348548e-07
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 11,
+    "rank": 16,
+    "js": 9.03543124763928e-08
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 23,
+    "rank": 0,
+    "js": 3.0177379812812433e-06
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 23,
+    "rank": 16,
+    "js": 4.55459201020858e-07
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 31,
+    "rank": 0,
+    "js": 0.009443553164601326
+  },
+  {
+    "task": "Write a detailed 1200-word essay about the development of astronomy.",
+    "slot": 31,
+    "rank": 16,
+    "js": 1.2389470612106379e-05
+  }
+]

@@ -1,0 +1,332 @@
+{
+  "seed": 612909,
+  "cases": {
+    "record_id_short": [
+      "record_id",
+      [
+        "91a2b0",
+        "b872d7",
+        "da1e0e",
+        "8066f6",
+        "4c9e5e",
+        "2f59be",
+        "8205ed",
+        "d2af24",
+        "71ac8a",
+        "09baa4",
+        "a01105",
+        "27b136",
+        "3f95a5",
+        "c02ea0",
+        "39f58e",
+        "3c87c9"
+      ]
+    ],
+    "record_id_long": [
+      "record_id",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "session_id": [
+      "session_id",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "checksum": [
+      "checksum",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "access_token": [
+      "access_token",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "password": [
+      "password",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "API_KEY": [
+      "API_KEY",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "random_string": [
+      "random_string",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ],
+    "client_city": [
+      "client_city",
+      [
+        "Oslo",
+        "Paris",
+        "Rome",
+        "Kyoto",
+        "Lima",
+        "Dakar",
+        "Boston",
+        "Cairo",
+        "Delhi",
+        "Prague",
+        "Lisbon",
+        "Vienna",
+        "Seoul",
+        "Nairobi",
+        "Lagos",
+        "Zurich"
+      ]
+    ],
+    "client_age": [
+      "client_age",
+      [
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "25",
+        "26",
+        "27",
+        "28",
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    ],
+    "project_name": [
+      "project_name",
+      [
+        "Oslo",
+        "Paris",
+        "Rome",
+        "Kyoto",
+        "Lima",
+        "Dakar",
+        "Boston",
+        "Cairo",
+        "Delhi",
+        "Prague",
+        "Lisbon",
+        "Vienna",
+        "Seoul",
+        "Nairobi",
+        "Lagos",
+        "Zurich"
+      ]
+    ],
+    "date": [
+      "date",
+      [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16"
+      ]
+    ],
+    "debug_flag": [
+      "debug_flag",
+      [
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true",
+        "false",
+        "true"
+      ]
+    ],
+    "context_note": [
+      "context_note",
+      [
+        "Oslo is a city mentioned in an unrelated internal document.",
+        "Paris is a city mentioned in an unrelated internal document.",
+        "Rome is a city mentioned in an unrelated internal document.",
+        "Kyoto is a city mentioned in an unrelated internal document.",
+        "Lima is a city mentioned in an unrelated internal document.",
+        "Dakar is a city mentioned in an unrelated internal document.",
+        "Boston is a city mentioned in an unrelated internal document.",
+        "Cairo is a city mentioned in an unrelated internal document.",
+        "Delhi is a city mentioned in an unrelated internal document.",
+        "Prague is a city mentioned in an unrelated internal document.",
+        "Lisbon is a city mentioned in an unrelated internal document.",
+        "Vienna is a city mentioned in an unrelated internal document.",
+        "Seoul is a city mentioned in an unrelated internal document.",
+        "Nairobi is a city mentioned in an unrelated internal document.",
+        "Lagos is a city mentioned in an unrelated internal document.",
+        "Zurich is a city mentioned in an unrelated internal document."
+      ]
+    ],
+    "nonce_unlabeled": [
+      "",
+      [
+        "48303e78e5467de1198fbbd884cd3cfd",
+        "4e0e290e511ba7e65b249e64960dc38f",
+        "18f1c6d228b5e1b8788d97d62bcce9be",
+        "b9b1681452523cb6cba2b9f63af261a4",
+        "bc9296d5b9e902454a11b085e7db151a",
+        "7ded80ce7f5fb56d1faed4cf97922777",
+        "8a2a2faae6f96f8aeea27cc369738815",
+        "b8b368da925372f7e2538b13dc936cfe",
+        "070b489d025c2b8c44c903146a468597",
+        "fcb515eacc51324feb998fc448c3cd1a",
+        "a276be23fd071e8a1d8cf8b000f15245",
+        "3279cb76aeda75fa7bdf255588cc90f0",
+        "042efe6baba67a0a8b30fe594e6a4901",
+        "5739576ed1166d5efde6324483a45937",
+        "8e7408d201b463cd77b91dd0a3908812",
+        "7549006c0974dbb8a493258017e59d9c"
+      ]
+    ]
+  },
+  "tasks": [
+    "Write one paragraph about ocean waves.",
+    "Describe the experience of learning a musical instrument.",
+    "Explain why sleep matters for everyday life.",
+    "Write a short description of an autumn forest."
+  ],
+  "prefixes": [
+    "Ocean waves are",
+    "Learning a musical instrument",
+    "Sleep is important because",
+    "An autumn forest is"
+  ]
+}
