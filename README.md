@@ -1,6 +1,6 @@
 # Detecting, Decoding, and Suppressing Steganographic Secret Exfiltration in Dolos-1.5B
 
-Artifacts for the experiments reported in the paper by Jaden Mu.
+Artifacts for the experiments reported in "Detecting, Decoding, and Suppressing Steganographic Secret Exfiltration in Dolos-1.5B".
 
 ## Contents
 
